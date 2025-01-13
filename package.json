@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sukhpal25.github.io/financial-data-app",
+  "homepage": "https://sukhpal25.github.io/financial-data-app/index.html",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
